@@ -1,0 +1,50 @@
+[
+    {
+        "game": 0,
+        "val_acc": 90,
+        "reward": 6.05329709191875,
+        "best_reward": 0,
+        "best_acc": 0,
+        "epoch_unfreeze": "[4]"
+    },
+    {
+        "game": 1,
+        "val_acc": 90,
+        "reward": 5.779156510302499,
+        "best_reward": 0,
+        "best_acc": 0,
+        "epoch_unfreeze": "[3]"
+    },
+    {
+        "game": 2,
+        "val_acc": 90,
+        "reward": 5.18985941838375,
+        "best_reward": 0,
+        "best_acc": 0,
+        "epoch_unfreeze": "[1, 2]"
+    },
+    {
+        "game": 3,
+        "val_acc": 90,
+        "reward": 5.18985941838375,
+        "best_reward": 0,
+        "best_acc": 0,
+        "epoch_unfreeze": "[1, 2]"
+    },
+    {
+        "game": 4,
+        "val_acc": 90,
+        "reward": 5.46985941838375,
+        "best_reward": 5.18985941838375,
+        "best_acc": 90,
+        "epoch_unfreeze": "[2, 3]"
+    },
+    {
+        "game": 5,
+        "val_acc": 90,
+        "reward": 5.46985941838375,
+        "best_reward": 5.18985941838375,
+        "best_acc": 90,
+        "epoch_unfreeze": "[2, 3]"
+    }
+]
